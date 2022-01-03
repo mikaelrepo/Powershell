@@ -17,7 +17,7 @@ Function Send-WakeOnLan {
     .NOTES
     Version:        1.0
     .EXAMPLE
-    Send-WakeOnLan -ComputerName Destination
+    Send-WakeOnLan -ComputerName DestinationComputer
     #>
     #-----------------------------------------------------------[Functions]------------------------------------------------------------
     [CmdletBinding()]
