@@ -1,9 +1,9 @@
 Function Install-VSCodeExtension {
     <#
     .SYNOPSIS
-    Install VSCode extensions automatically
+    Install VSCode extensions
     .DESCRIPTION
-    Install VSCode extensions automatically
+    Install VSCode extensions
     .PARAMETER ExtensionId
     Specify the VSCode extension Id.
     .NOTES
