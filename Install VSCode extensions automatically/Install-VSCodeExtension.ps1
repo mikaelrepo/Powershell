@@ -9,7 +9,7 @@ Function Install-VSCodeExtension {
     .NOTES
     Version:        1.0
     .EXAMPLE
-    Install-VSCodeExtension -ExtensionId "ms-vscode.powershell", "vscode-icons-team.vscode-icons"
+    Install-VSCodeExtension "ms-vscode.powershell", "vscode-icons-team.vscode-icons"
     #>
 
     #-----------------------------------------------------------[Functions]------------------------------------------------------------
